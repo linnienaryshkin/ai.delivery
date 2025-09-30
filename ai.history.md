@@ -14,7 +14,7 @@ Oxford Dictionary
 
 1987 **Control Systems**
 
-> One of the first and most famous applications of fuzzy logic was in controlling systems, such as electronic appliances and motors. In 1987, the first commercially available fuzzy logic controlled product, a washing machine by Matsushita Electric, was introduced in Japan. This washing machine used fuzzy logic to determine the wash cycle length and water intake necessary by assessing the dirtiness of the clothes, leading to better energy and water usage.
+> One of the first and most famous applications of fuzzy logic was in controlling systems, such as electronic appliances and motors. In 1987, the first commercially available fuzzy logic-controlled product, a washing machine by Matsushita Electric, was introduced in Japan. This washing machine used fuzzy logic to determine the wash cycle length and water intake necessary by assessing the dirtiness of the clothes, leading to better energy and water usage.
 
 1986 **Backpropagation**
 
@@ -31,3 +31,11 @@ Oxford Dictionary
 2014 **Seq2Seq**
 
 > Introduced by Ilya Sutskever, Oriol Vinyals, and Quoc V. Le, this model architecture was pivotal for tasks that involved generating sequences from sequences, such as machine translation. This work laid the groundwork for attention mechanisms and other complex sequence modeling that would later be integral to transformer models.
+
+2015 **Attention Mechanism**
+
+> Introduced by Bahdanau et al., the attention mechanism allowed models to focus on different parts of the input sequence when predicting each word of the output sequence, improving the performance of neural machine translation systems. This innovation was crucial for the development of transformers.
+
+2017 **Transformers**
+
+> The introduction of the transformer model by Vaswani et al. marked a departure from recurrent layers used in previous models. The transformer uses self-attention mechanisms to weigh the importance of different parts of the input data without regard to their sequential order, leading to significant improvements in processing efficiency and model performance across a range of tasks.
