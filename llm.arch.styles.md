@@ -1,3 +1,5 @@
+# [Levels of LLM Applications](https://www.vitalijneverkevic.com/six-levels-of-llm-applications/)
+
 There are various flavours of the solutions with LLM, which can be distinguished by how many of the LLM capabilities are utilized. From bottom to the top in the pyramid, we have solution complexity as well as the number of problems that can be solved at any particular style.
 
 ## QUESTIONS ANSWERING
