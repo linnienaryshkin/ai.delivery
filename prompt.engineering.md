@@ -31,3 +31,34 @@ Based on the insights gained from the check phase, make adjustments to improve t
 - **Refining prompts**: Modify the existing prompts based on the specific issues identified. This might mean making prompts more specific, adding missing context, or adjusting the language to be clearer.
 - **Testing new strategies**: If certain prompts consistently fail to elicit the desired outputs, consider different approaches or structures for the prompts.
 - **Documenting learnings**: Keep records of what changes have been made and how they affected the outcomes. This documentation will be valuable for future prompt engineering efforts.
+
+---
+
+## Tokens
+
+- https://platform.openai.com/tokenizer
+- https://github.com/openai/tiktoken
+
+Tokens are the basic units of text processed by AI models. In most language models, including those based on transformers like GPT (Generative Pre-trained Transformer), text is broken down into tokens before processing. A token can be as small as a character, such as a letter or punctuation mark, or as large as a word or part of a word. Tokenization is the process of converting text into tokens.
+
+### Why are Tokens Important?
+
+1. Understanding Model Limits: Many language models, especially those based on transformers, have a maximum token limit per input. Knowing how to manage tokens effectively is crucial for optimizing prompt design and response generation.
+2. Efficiency in Processing: Efficient token management can help in staying within the computational limits, reducing costs, and speeding up processing times.
+3. Influence on Output: The choice of tokenization affects how the model understands and generates text, influencing everything from grammatical correctness to stylistic nuances.
+
+### How to Best Use Tokens
+
+1. Token Economy: Since language models have token limits, structuring prompts to use tokens economically can maximize the information conveyed without exceeding these limits.
+2. Understanding Tokenization: Different models may use different tokenization schemes (e.g., byte-pair encoding, WordPiece). Understanding the tokenization method used by your model can help in crafting effective prompts.
+3. Advanced Techniques: For complex tasks, consider using techniques like token weighting or attention manipulation to emphasize or de-emphasize certain parts of the input.
+
+### Where to Apply Knowledge of Tokens
+
+1. Large Document Processing: When working with documents that exceed the token limits of a model, understanding tokens can help in segmenting the text appropriately without losing context.
+2. Multi-turn Dialogue Systems: In systems where there are multiple interactions, managing tokens across turns can prevent information loss and ensure coherent conversations.
+3. Content Generation: In content creation, effective token management can ensure that the full scope of the content fits within the model's processing capabilities without truncating important information.
+
+---
+
+## Prompting Strategies
