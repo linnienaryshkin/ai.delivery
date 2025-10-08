@@ -62,3 +62,34 @@ Tokens are the basic units of text processed by AI models. In most language mode
 ---
 
 ## Prompting Strategies
+
+We will dive deeper into each
+and every prompting strategy and try to map which specific keywords or sentenses trigger specific LLM behavior
+
+### Cognitive Reasoning
+
+### Strategies
+
+### Learning and
+
+### Adaptation Strategies
+
+### Emotional and
+
+### Perspective
+
+### Engagement Strategies
+
+### Interactive and
+
+### Dynamic Response
+
+### Strategies
+
+### Auxiliary
+
+### Prompting Socratic Prompting
+
+---
+
+## AI Prompting Artefacts
