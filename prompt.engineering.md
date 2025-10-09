@@ -68,6 +68,18 @@ and every prompting strategy and try to map which specific keywords or sentenses
 
 ### Cognitive Reasoning
 
+** Chain of Thought (CoT)**
+
+> Imagine you are a math tutor. A student asks you to solve the equation 2x + 5 = 15 and explain **each step** of your reasoning clearly. Please provide a detailed explanation as you solve the equation.
+
+**Contrastive Chain of Thought (CCoT)**
+
+> Imagine you are a product design consultant specializing in eco-friendly materials. A client is considering **whether to** use natural fiber or synthetic materials for their new line of backpacks. Please analyze **both options**, **comparing their benefits and drawbacks**, particularly focusing on durability, cost, and environmental impact.
+
+**Thread of Thought (ToT)**
+
+> Imagine you are a history teacher explaining the fall of the Berlin Wall to a high school class. Start from the end of World War II, outline the events leading up to the fall of the wall, discuss the immediate consequences, and reflect on its long-term impact on global politics. Provide a clear, connected narrative to help students understand the sequence and significance of these events.
+
 ### Strategies
 
 ### Learning and
