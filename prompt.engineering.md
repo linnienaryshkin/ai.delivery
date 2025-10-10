@@ -80,27 +80,37 @@ and every prompting strategy and try to map which specific keywords or sentenses
 
 > Imagine you are a history teacher explaining the fall of the Berlin Wall to a high school class. Start from the end of World War II, outline the events leading up to the fall of the wall, discuss the immediate consequences, and reflect on its long-term impact on global politics. Provide a clear, connected narrative to help students understand the sequence and significance of these events.
 
-### Strategies
+### Learning and Adaptation
 
-### Learning and
+**Self Ask**
 
-### Adaptation Strategies
+> Imagine you are an AI research assistant. The student has asked for help in understanding the economic impacts of climate change Generate relevant questions to explore this topic deeper, find answers to these questions, and summarize your findings.
 
-### Emotional and
+**Self Critique**
 
-### Perspective
+> Create an advertisement copy for a new eco-friendly water bottle targeting young adults. After generating the initial draft, critique your own work. Identify any areas that could be improved in terms of persuasiveness, emotional appeal, and alignment with ecofriendly values, and then revise the copy accordingly.
 
-### Engagement Strategies
+### Emotional and Perspective Engagement
 
-### Interactive and
+**Emotional Prompting**
 
-### Dynamic Response
+> Imagine you are an AI chatbot trained to offer support to individuals facing stress and anxiety. A user messages you saying, 'I've been feeling really overwhelmed with work and it's starting to affect my sleep. I don't know what to do.' Craft a response that acknowledges the user's feelings, offers reassurance, and provides practical advice or encouragement.
 
-### Strategies
+**Various Perspectives**
+
+> Imagine you are an AI discussion facilitator. A user has asked, 'What are the major perspectives on climate change policy and its economic impact?' Provide responses that highlight different perspectives, such as the views of environmentalists, economists, policymakers, and business leaders. Ensure each perspective is balanced and does not favour any single view.
+
+### Interactive and Dynamic Response
+
+**Ask Me Before You Answer**
+
+> Imagine you are an AI design consultant for home renovations. A client has mentioned wanting a kitchen remodel but has not provided specific details about their preferences, budget, or the existing kitchen layout. Before suggesting any design ideas, ask the client a series of detailed questions to gather all necessary information.
 
 ### Auxiliary
 
-### Prompting Socratic Prompting
+**Least to Most**
+
+> Imagine you are an AI math tutor assisting a student who is struggling with the concept of quadratic equations. Start with a simple explanation of what a quadratic equation is, followed by progressively more complex examples and questions, adjusting the difficulty based on the student's responses.
 
 ---
 
